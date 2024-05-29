@@ -1,5 +1,0 @@
----
-releases : 
-  - name: python-api
-    chart: ./python-api
-    installed: true 
